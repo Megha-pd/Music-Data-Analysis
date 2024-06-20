@@ -1,2 +1,23 @@
 # Music-Data-Analysis
 Music Data Analysis Using  SQL
+
+![Music Data Analysis-01](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/37f1c4fd-2625-4e28-aa73-e8af9e348175)
+![Music Data Analysis-02](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/7ec48f4a-d931-4ea7-928b-36824366fbb8)
+![Music Data Analysis-03](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/d54f68e9-500f-450c-89f2-6fa6bb599aa5)
+![Music Data Analysis-04](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/c38ada7a-ec01-4e01-8716-f0ed7b5afd43)
+![Music Data Analysis-05](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/103fd816-5e68-4d4c-9933-e6f047990335)
+![Music Data Analysis-06](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/52f13ef4-4f51-47e5-bf2e-c5f6286b517b)
+![Music Data Analysis-07](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/92a03e4d-c9c9-4d04-8303-13a2c6da07a3)
+![Music Data Analysis-08](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/91a597be-94be-4a83-be99-7d9e01f112f5)
+![Music Data Analysis-09](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/d05ea8f9-3b1d-44ff-a4b6-4643ee7aa1e8)
+![Music Data Analysis-10](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/60f21be8-2527-4a95-b4ec-2cbe124c4fb3)
+![Music Data Analysis-11](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/a80e26fb-593d-46ef-8f5c-fd43634ccbb2)
+![Music Data Analysis-12](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/1ec9c0e3-c874-47f0-8dd8-143d90f6050c)
+![Music Data Analysis-13](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/4e679b21-045d-4072-9c76-d27d36d6757c)
+![Music Data Analysis-14](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/9f785a81-c164-467b-8c5b-8b8fb0c226b3)
+![Music Data Analysis-15](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/9f9c66f8-3c99-4d48-98ca-94721d855834)
+![Music Data Analysis-16](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/0818d0c5-2a7b-4dee-8a2a-44fef9e6a777)
+![Music Data Analysis-17](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/2a581951-de42-49bb-af13-0c8487339c96)
+![Music Data Analysis-18](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/2dce1606-1609-450d-8aea-d7101b6a7a60)
+![Music Data Analysis-19](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/2f166746-a2eb-412b-a452-187f36fd7586)
+![Music Data Analysis-20](https://github.com/Megha-pd/Music-Data-Analysis/assets/167335144/702f2322-c883-4c78-a0d9-61f6339a1f11)
